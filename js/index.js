@@ -7,11 +7,10 @@ var i=0;//star index
 var images =[];
 var time= 3000; //tiempo en milisegundos
 // image list
-images[0]="../img/fotosJontxu1.jpg";
+images[0]="../img/fotosJontxu5.jpg";
 images[1]="../img/fotosJontxu2.jpg";
 images[2]="../img/fotosJontxu3.jpg";  
 images[3]="../img/fotosJontxu4.jpg";
-images[4]="../img/fotosJontxu5.jpg";
 
 //create function
 
